@@ -17,7 +17,7 @@ on:
         options:
           - openwrt-main
           - lede-master
-          - immortalwrt-master
+          - immortalwrt-openwrt-24.10
           - Lienol-master
       
 env:
